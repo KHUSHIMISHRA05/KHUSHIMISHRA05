@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KHUSHIMISHRA05
 - 👀 I’m interested in artifical intelligence,working on develpoment for real-world problems using deeplearning method
-- 🌱 I’m currently learning WEB DEVELPOMENT & DSA
+- 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on ways which i can use my knowledge for better place.
 
 - 😄 Pronouns: she/her
